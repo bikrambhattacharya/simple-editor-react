@@ -1,7 +1,7 @@
 # simple-editor-react
 
 > A simple text editor with image upload functionality.
-> Working on the document.
+> Working on the documentation.
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
